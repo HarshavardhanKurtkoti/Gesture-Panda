@@ -1,6 +1,3 @@
-
-![System Flowchart](ui/flowchart.png)
-
 ## 🎯 Project Overview
 GesturePanda is a modern Windows-based Python application that uses your webcam and OpenCV to recognize dynamic hand gestures in real time and perform system actions such as play/pause media, scroll documents, adjust volume, and more.
 
